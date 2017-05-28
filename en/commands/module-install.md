@@ -11,7 +11,7 @@ $ moi
 Option | Details
 -------|-------------
 --latest | Default to download most recent version
---composer | Uninstalls the module using Composer
+--composer | Installs the module using Composer
 
 ## Available arguments
 Argument | Details
